@@ -74,7 +74,7 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 
 A continuación se muestra la captura de pantalla con la ejecución de los tests:
 
-![Resultado de los tests](Captura de pantalla 2025-04-04 080504.png)
+![Resultado de los tests](Captura_de_pantalla_2025-04-04_080504.png)
 
 #### Código desarrollado
 ```python
